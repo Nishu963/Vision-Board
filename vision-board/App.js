@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
     flex: 1,
     paddingTop: 50,
     paddingHorizontal: 16,
-    backgroundColor: '#311b6b', // Full purple background
+    backgroundColor: '#311b6b', 
   },
   listContainer: {
     paddingBottom: 100,
